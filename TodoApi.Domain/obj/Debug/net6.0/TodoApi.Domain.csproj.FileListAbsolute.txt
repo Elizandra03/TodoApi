@@ -1,0 +1,12 @@
+C:\dev\dotnet\TodoApi\TodoApi.Domain\bin\Debug\net6.0\TodoApi.Domain.deps.json
+C:\dev\dotnet\TodoApi\TodoApi.Domain\bin\Debug\net6.0\TodoApi.Domain.dll
+C:\dev\dotnet\TodoApi\TodoApi.Domain\bin\Debug\net6.0\TodoApi.Domain.pdb
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\TodoApi.Domain.csproj.AssemblyReference.cache
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\TodoApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\TodoApi.Domain.AssemblyInfoInputs.cache
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\TodoApi.Domain.AssemblyInfo.cs
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\TodoApi.Domain.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\TodoApi.Domain.dll
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\refint\TodoApi.Domain.dll
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\TodoApi.Domain.pdb
+C:\dev\dotnet\TodoApi\TodoApi.Domain\obj\Debug\net6.0\ref\TodoApi.Domain.dll

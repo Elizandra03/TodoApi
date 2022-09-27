@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fAE3MNWO9VczBIox5j2a3qk0hTZfgLizis3GgaFaYtk=",
+  "Source": "TodoApi.Domain.Api",
+  "BasePath": "_content/TodoApi.Domain.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
