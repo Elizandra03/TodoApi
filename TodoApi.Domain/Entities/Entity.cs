@@ -1,6 +1,6 @@
 namespace TodoApi.Domain.Entities
 {
-    public abstract class Entity
+    public abstract class Entity : IEquatable<Entity>
     {
         protected Entity()
         {
@@ -8,5 +8,10 @@ namespace TodoApi.Domain.Entities
         }
         
         public Guid Id { get; private set; }
+
+        public bool Equals(Entity other)
+        {
+            return Id == other.Id;
+        }
     }
 }
